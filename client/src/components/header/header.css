@@ -1,0 +1,11 @@
+.header {
+    background: grey;
+    flex: 1;
+    height: 50px;
+    text-align: left;
+    position: sticky;
+}
+.headerText {
+    font-size: 22px;
+    color: white;
+}

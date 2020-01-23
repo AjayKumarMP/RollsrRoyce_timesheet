@@ -1,0 +1,10 @@
+    .pageNotFound {
+        text-align: center;
+        position: absolute;
+        margin-left: 25%;
+        /* margin-top: 10%; */
+        background-repeat: no-repeat;
+        background-image: url('../../assets/images/404.gif');
+        height: 100%;
+        width: 100%;
+    }
